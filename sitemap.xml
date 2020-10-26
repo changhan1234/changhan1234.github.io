@@ -3,26 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>changhan1234.github.io/</loc>
+    <loc>https://changhan1234.github.io/posts/comment/</loc>
+    <lastmod>2020-10-25T15:57:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://changhan1234.github.io/posts/</loc>
+    <lastmod>2020-10-25T15:57:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://changhan1234.github.io/</loc>
+    <lastmod>2020-10-25T15:57:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://changhan1234.github.io/posts/touch/</loc>
+    <lastmod>2020-10-23T13:16:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://changhan1234.github.io/posts/my-first-post/</loc>
     <lastmod>2020-10-23T11:31:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>changhan1234.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-10-23T11:31:22+02:00</lastmod>
+    <loc>https://changhan1234.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>changhan1234.github.io/posts/</loc>
-    <lastmod>2020-10-23T11:31:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>changhan1234.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>changhan1234.github.io/tags/</loc>
+    <loc>https://changhan1234.github.io/tags/</loc>
   </url>
   
 </urlset>

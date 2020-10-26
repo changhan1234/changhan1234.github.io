@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hans Blogo</title>
-    <link>changhan1234.github.io/</link>
-    <description>Recent content on Hans Blogo</description>
+    <title>喊</title>
+    <link>https://changhan1234.github.io/</link>
+    <description>Recent content on 喊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 11:31:22 +0200</lastBuildDate><atom:link href="changhan1234.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2020 15:57:39 +0100</lastBuildDate><atom:link href="https://changhan1234.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment</title>
+      <link>https://changhan1234.github.io/posts/comment/</link>
+      <pubDate>Sun, 25 Oct 2020 15:57:39 +0100</pubDate>
+      
+      <guid>https://changhan1234.github.io/posts/comment/</guid>
+      <description>New comment on Coronavirus. Besorgniseregend.</description>
+    </item>
+    
+    <item>
+      <title>Touch</title>
+      <link>https://changhan1234.github.io/posts/touch/</link>
+      <pubDate>Fri, 23 Oct 2020 13:16:02 +0200</pubDate>
+      
+      <guid>https://changhan1234.github.io/posts/touch/</guid>
+      <description>Touch has a memory. Yes!</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>changhan1234.github.io/posts/my-first-post/</link>
+      <link>https://changhan1234.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 23 Oct 2020 11:31:22 +0200</pubDate>
       
-      <guid>changhan1234.github.io/posts/my-first-post/</guid>
+      <guid>https://changhan1234.github.io/posts/my-first-post/</guid>
       <description>Hallo!</description>
     </item>
     
